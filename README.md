@@ -4,7 +4,7 @@ The goal of this project is to develeop a visual interpretation of real-time dat
 ## Libraries
 We will base this project on the windpowerlib.
 
-To download this type:
+To download this, type:
 
 
     pip install windpowerlib
@@ -13,9 +13,7 @@ To download this type:
   <br> 
   <br>
   
-  link:
-  
-  https://github.com/wind-python/windpowerlib/tree/f740be9ee5c81d55816e7056a7c0a4529f41f51f
+  link:  https://github.com/wind-python/windpowerlib/tree/f740be9ee5c81d55816e7056a7c0a4529f41f51f
   
   
  ## Using
