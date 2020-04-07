@@ -17,7 +17,7 @@ To download this, type:
   
   
  ## Using
- The languages that will be used on this project is; <br>
+ The languages that will be used in this project is; <br>
  
  
  <b>Python</b>: for retrieveing information and sending data <br>
